@@ -1,3 +1,8 @@
+"""
+Date : 04.12.2025
+Nom du fichier : Person.py
+Auteur : Joel Cunha Faria
+"""
 class Person:
     def __init__(self, id_person, lastname, firstname, email, birthday, address, city, zipcode):
         self.id_person = id_person

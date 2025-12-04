@@ -1,3 +1,8 @@
+"""
+Date : 04.12.2025
+Nom du fichier : Book.py
+Auteur : Joel Cunha Faria
+"""
 class Book:
     def __init__(self, id_book, title, author, number_of_pages, publishing_house, minimum_age, publication_date):
         self.id_book = id_book
